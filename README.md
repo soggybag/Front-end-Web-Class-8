@@ -171,29 +171,13 @@ is as successful as it can be.
             - Improve your Github skills by making pull requests
             - Improve your collaboration skills
 
+## SVG Resources 
 
-
-
-
-
-
-
-
-
-
-
-### Closer look at jQuery
-
-Adding and removing classes from an element or group of elements 
-probably has the most practical applications with jQuery.
-
-
-
-Slide shows 
-
-- Horizontal 
-- Vertical 
-- Two axis
-- Opposing motion
-- Put a slide show in a window
-- use the whole page
+Simple easy to follow basic concepts
+- http://www.w3schools.com/graphics/svg_intro.asp
+More in depth technical info
+- https://developer.mozilla.org/en-US/docs/Web/SVG/Element/svg
+Practical concepts 
+- https://css-tricks.com/using-svg/
+In depth lots of info
+- https://svgontheweb.com
