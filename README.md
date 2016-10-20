@@ -14,9 +14,12 @@
 | 2 |40 min| 45 | Work        | Review the work of your peers       |
 | 3 |10 min| 50 | Break       | Take a break                        |
 | 4 | 5 min| 55 | TT          | Sketch Drawing tools                |
-| 5 |10 min| 65 | Work        | Make an Icon                        |
-| 6 | 5 min| 70 | TT          | Export from Sketch                  |
-| 7 | 5 min| 75 | Work        | Export images and SVG               |
+| 5 |20 min| 75 | Work        | Make an Icon                        |
+| 6 | 5 min| 80 | TT          | Export from Sketch                  |
+| 7 |10 min| 90 | Work        | Export your icons                   |
+| 8 | 5 min| 95 | TT          | SVG Images                          |
+| 9 |10 min|105 | Work        | Export your icon as SVG             |
+|10 | 5 min|110 | Wrap up     | Challenges and projects             |
 
 ### 1 - Post your work for review
 
@@ -50,6 +53,13 @@ When all of the work is posted find your name on the list and provide
 feedback for the 4 projects that appear below your name. If your name appears 
 at the bottom wrap around and get your remaining reviews from the top of the list.
  
+|            |            |                   |               | 
+|------------|------------|-------------------|---------------|
+| Completion | Incomplete | Missing some info | Very complete |
+| Design     | Looks rough| Looks good        | Looks profesional |
+| Technical  | Not functional|  Mostly works | Works flawlessly |
+| U/X        | User experience is confusing| The user experience is good but there are may be some confusion | Great user experience |
+
 ### 3 - Break 
 
 ...
@@ -62,7 +72,87 @@ shapes can have a fill.
 
 !important: Vector drawings can be scaled to any size without loss of resolution. 
 
-This is in constrast to bit map images which are a collection of pixels 
+This is in constrast to bit map images which are a collection of pixels. 
+For computers pixel data is easy to draw less processor intensive. 
+Vector drawings on the other hand are more processor intensive. 
+Pixels data take up more memory and storage. While vectors are usually 
+much smaller. 
+
+#### Sketch Drawing tools
+
+__Insert > Shape__
+
+- Line
+- Rectangle 
+- Oval 
+- Star 
+- Polygon
+- Triangle 
+- Text
+
+Use the keyboard short cuts.
+
+Set the stroke and fill. 
+
+Size, Scale, and Rotate. 
+
+Align objects with the align options. 
+
+Group shapes. 
+
+--Bool Operations__
+
+Make complex shapes with
+
+- Union
+- Subtract
+- Intersection
+- Difference
+
+### 5 - Work
+
+Use the drawing tools to create an icon. Use simple graphic shapes to create 
+an icon. This can be an icon for an app you have created or an icon that can 
+be used for your web site, or try and recreate an existing icon here are a 
+few you can try: 
+
+- https://www.pinterest.com/pin/366339750914398194/
+- https://www.pinterest.com/pin/291537775856621251/
+- https://www.pinterest.com/pin/483081497505270874/
+- https://www.pinterest.com/pin/AXOHO3-THXvtJ9rYPx5LTNr9wNf9p5W6mHbVsxAK5hSlPX51KdkiplM/
+
+Here are a few tips: 
+
+- Stick with a single color
+- Use simple shapes 
+- Text should be large and legible
+
+### 6 - Export from Sketch 
+
+Export PNG for icons for your apps.
+
+Group shapes together before exporting, or use a Slice to define the area to 
+export. 
+
+Set the size of the image to export. 
+
+### 7 - Export your icons as SVG
+
+...
+
+### 8 - SVG
+
+SVG = Scalable Vector Graphics.
+
+You can use these in your HTML. 
+
+### 9 - Export your SVG 
+
+Export your SVG and open it in your text editor. 
+
+You can copy and paste this into an HTML file. 
+
+You can link to SVG files using the img tag. 
 
 ## Challenges projects
 
