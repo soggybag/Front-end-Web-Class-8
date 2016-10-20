@@ -12,8 +12,11 @@
 |---|------|----|-------------|-------------------------------------|
 | 1 | 5 min|  5 | TT          | Intro to review                     |
 | 2 |40 min| 45 | Work        | Review the work of your peers       |
-| 3 |10 min| 10 | Break       | Take a break                        |
-| 4 | 5 min|  5 | TT          | Sketch Drawing tools                |
+| 3 |10 min| 50 | Break       | Take a break                        |
+| 4 | 5 min| 55 | TT          | Sketch Drawing tools                |
+| 5 |10 min| 65 | Work        | Make an Icon                        |
+| 6 | 5 min| 70 | TT          | Export from Sketch                  |
+| 7 | 5 min| 75 | Work        | Export images and SVG               |
 
 ### 1 - Post your work for review
 
