@@ -171,6 +171,10 @@ is as successful as it can be.
             - Improve your Github skills by making pull requests
             - Improve your collaboration skills
 
+## Resources 
+
+- [Front End Web Playlist](https://goo.gl/z5fGaR)
+
 ## SVG Resources 
 
 Simple easy to follow basic concepts
